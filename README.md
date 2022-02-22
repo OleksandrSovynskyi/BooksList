@@ -25,7 +25,7 @@ Books List is a table for adding and editing information about books.
 
 ### Clone
 
-- Clone this repo to your local machine using ``
+- Clone this repo to your local machine using `https://github.com/OleksandrSovynskyi/BooksList.git`
 
 ### Setup
 
